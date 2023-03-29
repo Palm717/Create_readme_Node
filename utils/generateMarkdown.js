@@ -11,10 +11,13 @@ function renderLicenseLink(license) {}
 function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
+
+//USING THE PROVIDED CODE I AM PASSING IN MY ARGUMENT AS THE -- answerObj -- MY ANSWERS FROM THE USER PROVIDED BY THE -- index.js -- inquirer.prompt(); --
+//I AM ACCESSING THE PROVIDED KEYS FROM THE NAME PROPERTY WITHIN -- index.js
 function generateMarkdown(answerObj) {
   return `
   
-  # ${answerObj.title}
+  # ${answerObj.title} 
 
   ## Description 
 
