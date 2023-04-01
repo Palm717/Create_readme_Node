@@ -1,10 +1,10 @@
 
   
-  # None
+  # n 
 
   ## Description 
 
-  None
+  n
 
   ## Table Of Contents
 
@@ -14,25 +14,29 @@
 
   ## Usage 
 
-  None
+  n
 
   ## License 
 
-  Apache
+  This project is using the MIT license
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  
+  https://opensource.org/licenses/MIT
 
   ## Contributions 
 
-  None
+  n
 
   ## Tests 
 
-  None
+  n
 
   ## Questions 
 
   If you would like to reach out with any questions you can find me here!
 
-  None
+  n
 
   
 
